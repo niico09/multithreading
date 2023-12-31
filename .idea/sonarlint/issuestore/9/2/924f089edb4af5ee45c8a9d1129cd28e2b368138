@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8ÇîÑæË1
+G	java:S106"+Replace this use of System.out by a logger.(£ßÖ½8ÙñğæË1
+L	java:S106
+"+Replace this use of System.out by a logger.( µõÉüÿÿÿÿ8ÆÆñæË1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ó‡õâ8äÑ¼çË1

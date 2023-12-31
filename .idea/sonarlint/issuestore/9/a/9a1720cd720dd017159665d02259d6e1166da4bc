@@ -1,0 +1,5 @@
+
+x	java:S116"WRename this field "MAX_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±×Ï ùÿÿÿÿ8À‹ÄèË1
+C
+java:S1170"!Make this final field static too.(±×Ï ùÿÿÿÿ8Á‹ÄèË1
+L	java:S106"+Replace this use of System.out by a logger.(ş´Êçşÿÿÿÿ8™ûÂèË1

@@ -1,0 +1,10 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÎûÄƒ8Ï›ŒçË1
+7
+java:S1220""Move this file to a named package.8Ò›ŒçË1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(äã«‹ıÿÿÿÿ8û‘’çË1
+I
+java:S1602	",Remove useless curly braces around statement(Áš§‡8õççË1
+L	java:S106
+"+Replace this use of System.out by a logger.(Á¦”úÿÿÿÿ8öççË1
