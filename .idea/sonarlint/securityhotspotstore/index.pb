@@ -1,12 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-I
-src/ThreadExceptions.java,4\0\40a9729ad827e5c0ced6d2d05747e09853036df6
-A
-src/ThreadOk.java,9\9\998d7841e134c2a5f34b2c5f56c0abc8830cd143
-H
-src/ThreadInterface.java,8\8\88ee82d370df85efef2c536e7bb0360a14d249e9
 Y
 )src/thread/creation/example/ThreadOk.java,4\3\43fdd6ed1814b006379d4b74a925d721f8a0f280
 a
@@ -27,3 +19,11 @@ h
 8src/thread/creation/example2/DescendingHackerThread.java,c\8\c881e8913b7c1e1ac20df1a7ff6fa64829e50e4e
 ^
 .src/thread/creation/example2/PoliceThread.java,8\6\8627a1b3880d0b700196fee7dcd39b89e5961923
+Y
+)src/thread/termination/example1/Main.java,a\f\afb9c3d76ccf77d607c3bda3ac94c7cd1fd27c20
+Y
+)src/thread/termination/example2/Main.java,3\5\354d62e2b886f2c527ba60673867bcd4849a1973
+Y
+)src/thread/termination/example3/Main.java,0\a\0a2dd7d66c7143dfe91ba562f43414c37c862177
+I
+src/thread/join/Main.java,c\9\c902e88881b6257b1920f27ad3d594589ec219cd
